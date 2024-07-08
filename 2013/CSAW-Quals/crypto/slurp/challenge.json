@@ -1,0 +1,11 @@
+{
+	"name": "slurp",
+	"category": "crypto",
+	"description": "We've found the source to the Arstotzka spies rendevous server, we must find out their new vault key.",
+	"box": "crypto.chal.csaw.io",
+	"files":[
+		
+	],
+    "points": 300,
+	"flag": "We'd all be so much safer if all primes were so free and germane"
+}

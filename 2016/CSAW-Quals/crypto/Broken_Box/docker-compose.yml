@@ -1,0 +1,14 @@
+version: '3'
+services:
+  server:
+    image: llmctf/2016q-cry-broken_box 
+    ports:
+      - 31337:31337
+    networks:
+      ctfnet:
+        aliases:
+          - crypto.chal.csaw.io
+
+networks:
+  ctfnet:
+    external: true
