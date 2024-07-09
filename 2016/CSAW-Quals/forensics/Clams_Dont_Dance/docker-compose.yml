@@ -1,0 +1,13 @@
+version: '3'
+services:
+  server:
+    image: llmctf/2016q-for-clams-dont-dance
+    ports:
+    networks:
+      ctfnet:
+        aliases:
+          - forensics.chal.csaw.io
+
+networks:
+  ctfnet:
+    external: true
