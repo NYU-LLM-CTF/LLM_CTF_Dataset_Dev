@@ -1,0 +1,8 @@
+{
+	"name": "Clams_Dont_Dance",
+	"category": "forensics",
+	"description": "Find the clam and open it to find the pearl",
+	"box": "forensics.chal.csaw.io",
+	"files":["out.img"],
+	"flag": "flag{TH1NK ABOUT 1T B1LL. 1F U D13D, WOULD ANY1 CARE??}"
+}
