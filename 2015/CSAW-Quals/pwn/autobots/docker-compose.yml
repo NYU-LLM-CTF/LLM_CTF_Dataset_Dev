@@ -3,7 +3,7 @@ services:
   server:
     image: llmctf/2015q-pwn-autobots
     ports:
-      - 9000:9000
+      - 8888:8888
     networks:
       ctfnet:
         aliases:

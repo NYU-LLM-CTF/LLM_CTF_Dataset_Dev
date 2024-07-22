@@ -1,8 +1,8 @@
-FROM ubuntu:latest
+FROM ubuntu:14.04
 MAINTAINER Steven
 LABEL Description="CSAW 2015-Q: Autobots" VERSION='1.0'
 # Update
-#RUN apt-get update -y && apt-get -y upgrade && apt-get install -y python build-essential gcc
+# RUN apt-get update -y && apt-get -y upgrade && apt-get install -y python build-essential gcc
 ARG PYTHON_VERSION=2.7.9
 RUN apt-get update \
   && apt-get install -y wget gcc make openssl libffi-dev libgdbm-dev libsqlite3-dev libssl-dev zlib1g-dev \
