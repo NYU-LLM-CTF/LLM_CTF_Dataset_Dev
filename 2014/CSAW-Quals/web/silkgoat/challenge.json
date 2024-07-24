@@ -1,0 +1,10 @@
+{
+	"name": "silkgoat",
+	"category": "web",
+	"description": "hacker manifesto",
+	"box": "web.chal.csaw.io",
+	"files":[
+		
+	],
+	"flag": "flag{silkroad4ever}"
+}
