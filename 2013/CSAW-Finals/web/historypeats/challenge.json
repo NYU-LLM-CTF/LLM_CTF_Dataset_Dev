@@ -1,0 +1,10 @@
+{
+	"name": "historypeats",
+	"category": "web",
+	"description": "FridgeCorp uses Jenga Blocks as a Timesheet management solution. It would be nice to get Admin and so we are able to modify our timesheets. http://web.chal.csaw.io:80",
+	"box": "web.chal.csaw.io",
+	"files":[
+		
+	],
+	"flag": "key{Bundle_Up_And_Take_Your_Vitamins!}"
+}

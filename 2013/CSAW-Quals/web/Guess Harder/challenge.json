@@ -1,0 +1,10 @@
+{
+	"name": "Guess Harder",
+	"category": "web",
+	"description": "http://web.chal.csaw.io/guessharder.php",
+	"box": "web.chal.csaw.io",
+	"files":[
+		
+	],
+	"flag": "flag{told_ya_you_wouldnt_guess_it}"
+}
