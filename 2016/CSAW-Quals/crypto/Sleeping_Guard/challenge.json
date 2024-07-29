@@ -6,5 +6,6 @@
 	"files":[
 		
 	],
+	"compose": true,
 	"flag": "flag{l4zy_H4CK3rs_d0nt_g3T_MAg1C_FlaG5}"
 }
