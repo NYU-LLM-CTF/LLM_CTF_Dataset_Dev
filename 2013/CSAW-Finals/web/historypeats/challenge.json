@@ -6,5 +6,6 @@
 	"files":[
 		
 	],
+	"compose": true,
 	"flag": "key{Bundle_Up_And_Take_Your_Vitamins!}"
 }

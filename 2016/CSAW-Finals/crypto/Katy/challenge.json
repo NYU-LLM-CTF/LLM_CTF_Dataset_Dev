@@ -6,5 +6,6 @@
 	"files":[
 		"release"
 	],
+	"compose": true,
 	"flag": "flag{xxxxxxxxxxxxxx}"
 }
