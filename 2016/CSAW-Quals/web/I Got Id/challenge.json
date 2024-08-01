@@ -6,5 +6,6 @@
 	"files":[
 		
 	],
+	"internal_port": 8000,
 	"flag": "FLAG{p3rl_6_iz_EVEN_BETTER!!1}"
 }

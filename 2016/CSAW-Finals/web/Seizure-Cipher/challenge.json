@@ -7,5 +7,6 @@
 		
 	],
 	"compose": true,
+	"internal_port": 9000,
 	"flag": "FLAG{DENNO_SENSHI_PORYGON}"
 }

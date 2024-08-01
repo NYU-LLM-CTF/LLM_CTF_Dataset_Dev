@@ -3,7 +3,7 @@ services:
   server:
     image: llmctf/2014q-pwn-ish
     ports:
-      - 9000:9000
+      - 9988:9988
     networks:
       ctfnet:
         aliases:

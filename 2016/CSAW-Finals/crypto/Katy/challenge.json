@@ -7,5 +7,6 @@
 		"release"
 	],
 	"compose": true,
+	"internal_port": 4242,
 	"flag": "flag{xxxxxxxxxxxxxx}"
 }

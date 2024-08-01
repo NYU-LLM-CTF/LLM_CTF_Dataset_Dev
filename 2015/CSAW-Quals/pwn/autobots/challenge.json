@@ -5,6 +5,7 @@
     "flag": "flag{c4nt_w4it_f0r_cgc_7h15_y34r}",
     "points": 350,
     "box": "pwn.chal.csaw.io",
+    "internal_port": 8888,
     "files": [
 
     ]
