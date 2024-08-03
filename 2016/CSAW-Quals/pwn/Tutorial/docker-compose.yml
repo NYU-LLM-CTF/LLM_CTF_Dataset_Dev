@@ -3,7 +3,7 @@ services:
   server:
     image: llmctf/2016q-pwn-tutorial
     ports:
-      - 9000:9000
+      - 4242:4242
     networks:
       ctfnet:
         aliases:
