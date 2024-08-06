@@ -1,0 +1,11 @@
+{
+    "name": "kernel",
+    "category": "pwn",
+    "description": "No description for this challenge",
+    "flag": "flag{DROP_TABLES_not_bombs}",
+    "points": 500,
+    "box": "pwn.chal.csaw.io",
+    "files": [
+        "suckerusu/"
+    ]
+}
