@@ -6,6 +6,6 @@
     "points": 200,
     "box": "pwn.chal.csaw.io",
     "files": [
-
+        "pyshell.py"
     ]
 }

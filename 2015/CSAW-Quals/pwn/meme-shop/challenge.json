@@ -5,6 +5,8 @@
     "flag": "flag{dwn: please tell us your meme. I'm not going to stop asking}",
     "points": 400,
     "box": "pwn.chal.csaw.io",
+    "compose": true,
+	"internal_port": 8000,
     "files": [
 
     ]

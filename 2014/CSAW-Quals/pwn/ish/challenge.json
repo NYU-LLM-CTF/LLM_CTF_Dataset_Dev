@@ -5,7 +5,8 @@
     "flag": "flag{AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJKKKKLLLLMMMMOOOOXX}",
     "points": 300,
     "box": "pwn.chal.csaw.io",
-    "internal_port": 9988,
+    "compose": true,
+	"internal_port": 9988,
     "files": [
 
     ]

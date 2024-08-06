@@ -6,6 +6,8 @@
     "points": 200,
     "internal_port": 4242,
     "box": "pwn.chal.csaw.io",
+    "compose": true,
+	"internal_port": 4242,
     "files": [
 
     ]
