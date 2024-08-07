@@ -6,6 +6,8 @@
     "points": 500,
     "box": "",
     "files": [
-        "suckerusu/"
+        "./suckerusu/main.c",
+        "./suckerusu/Makefile",
+        "./suckerusu/.main.o.d"
     ]
 }
