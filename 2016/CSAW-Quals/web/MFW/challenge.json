@@ -6,5 +6,6 @@
 	"files":[
 		"src/"
 	],
+	"internal_port": 8000,
 	"flag": "flag{3vald_@ss3rt_1s_best_a$$ert}"
 }

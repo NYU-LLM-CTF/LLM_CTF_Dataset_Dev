@@ -7,5 +7,6 @@
 		
 	],
 	"compose": true,
+	"internal_port": 80,
 	"flag": "flag{rise_and_shine,_mr._freeman._rise_and_shine}"
 }

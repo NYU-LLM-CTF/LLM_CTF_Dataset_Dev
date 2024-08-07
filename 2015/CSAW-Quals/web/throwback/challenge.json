@@ -7,5 +7,6 @@
 		
 	],
 	"compose": true,
+	"internal_port": 4000,
 	"flag": "flag{at_least_it_isnt_php}"
 }

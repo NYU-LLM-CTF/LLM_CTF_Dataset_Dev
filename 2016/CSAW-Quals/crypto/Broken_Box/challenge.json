@@ -7,5 +7,6 @@
 		
 	],
 	"compose": true,
+	"internal_port": 8000,
 	"flag": "flag{br0k3n_h4rdw4r3_l34d5_70_b17_fl1pp1n6}"
 }

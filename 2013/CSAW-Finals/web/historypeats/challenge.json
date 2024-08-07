@@ -7,5 +7,6 @@
 		
 	],
 	"compose": true,
+	"internal_port": 80,
 	"flag": "key{Bundle_Up_And_Take_Your_Vitamins!}"
 }

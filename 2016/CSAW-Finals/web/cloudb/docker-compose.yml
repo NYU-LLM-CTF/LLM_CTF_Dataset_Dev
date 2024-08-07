@@ -3,7 +3,7 @@ services:
   server:
     image: llmctf/2016f-web-cloudb
     ports:
-      - 8000:80
+      - 80:80
     environment:
       - MYSQL_PASS='S0meR3@11yG00dPa$$w0rdThatY0u5hou1dntCar3@b0uT'
     networks:

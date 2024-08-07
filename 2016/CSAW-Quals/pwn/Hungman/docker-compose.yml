@@ -3,7 +3,7 @@ services:
   server:
     image: llmctf/2016q-pwn-hungman
     ports:
-      - 9000:9000
+      - 8000:8000
     networks:
       ctfnet:
         aliases:

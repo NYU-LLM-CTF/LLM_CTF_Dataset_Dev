@@ -7,5 +7,6 @@
 		
 	],
 	"compose": true,
+	"internal_port": 5000,
 	"flag": "flag{silkroad4ever}"
 }

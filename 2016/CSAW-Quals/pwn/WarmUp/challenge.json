@@ -5,6 +5,8 @@
     "flag": "FLAG{LET_US_BEGIN_CSAW_2016}",
     "points": 50,
     "box": "pwn.chal.csaw.io",
+    "compose": true,
+	"internal_port": 8000,
     "files": [
 
     ]
