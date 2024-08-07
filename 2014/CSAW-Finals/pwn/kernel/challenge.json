@@ -7,7 +7,6 @@
     "box": "",
     "files": [
         "./suckerusu/main.c",
-        "./suckerusu/Makefile",
-        "./suckerusu/.main.o.d"
+        "./suckerusu/Makefile"
     ]
 }
