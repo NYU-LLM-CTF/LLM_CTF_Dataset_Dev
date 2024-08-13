@@ -2,7 +2,7 @@
 	"name": "Networking 1",
 	"category": "misc",
 	"description": "No description provided",
-	"box": "misc.chal.csaw.io",
+	"box": "",
 	"files":[
 		"networking.pcap"
 	],
