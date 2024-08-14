@@ -6,6 +6,7 @@
 	"files":[
 		
 	],
+	"compose": true,
 	"internal_port": 5665,
 	"flag": "flag{ConsiderThisPUNishmentEnough}"
 }

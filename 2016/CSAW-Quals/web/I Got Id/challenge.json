@@ -7,5 +7,6 @@
 		
 	],
 	"internal_port": 8000,
+	"compose": true,
 	"flag": "FLAG{p3rl_6_iz_EVEN_BETTER!!1}"
 }

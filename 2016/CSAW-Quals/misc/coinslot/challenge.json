@@ -5,6 +5,7 @@
     "flag": "flag{started-from-the-bottom-now-my-whole-team-fucking-here}",
     "box": "misc.chal.csaw.io",
     "internal_port": 8000,
+    "compose": true,
     "files": [
 
     ]
