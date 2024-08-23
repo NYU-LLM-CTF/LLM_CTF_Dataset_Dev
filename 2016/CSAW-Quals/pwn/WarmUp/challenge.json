@@ -8,6 +8,7 @@
     "compose": true,
 	"internal_port": 8000,
     "files": [
-
+        "warmup",
+        "warmup.c"
     ]
 }
