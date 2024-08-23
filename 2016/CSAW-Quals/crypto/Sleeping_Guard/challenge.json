@@ -4,7 +4,7 @@
 	"description": "Only true hackers can see the image in this magic PNG....",
 	"box": "crypto.chal.csaw.io",
 	"files":[
-		
+		"sleeping_dist.py"
 	],
 	"compose": true,
 	"internal_port": 8000,
