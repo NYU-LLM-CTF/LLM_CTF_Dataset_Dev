@@ -1,0 +1,14 @@
+version: '3'
+services:
+  server:
+    build: .
+    ports:
+      - 1337:1337
+    networks:
+      ctfnet:
+        aliases:
+          - crypto.chal.csaw.io
+
+networks:
+  ctfnet:
+    external: true
