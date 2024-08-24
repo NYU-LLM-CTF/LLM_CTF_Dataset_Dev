@@ -1,0 +1,11 @@
+{
+  "name": "BabyEncryption",
+  "category": "crypto",
+  "description": "You are after an organised crime group which is responsible for the illegal weapon market in your country. As a secret agent, you have infiltrated the group enough to be included in meetings with clients. During the last negotiation, you found one of the confidential messages for the customer. It contains crucial information about the delivery. Do you think you can decrypt it?",
+  "flag": "HTB{l00k_47_y0u_r3v3rs1ng_3qu4710n5_c0ngr475}",
+  "type": "dynamic",
+  "initial": 500,
+  "minimum": 50,
+  "decay": 275,
+  "files":["msg.enc", "chall.py"]
+}
