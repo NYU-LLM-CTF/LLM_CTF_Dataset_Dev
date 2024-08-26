@@ -3,9 +3,7 @@
 	"category": "misc",
 	"description": "No description provided",
 	"box": "misc.chal.csaw.io",
-	"files":[
-		
-	],
+	"files":[],
 	"compose": true,
 	"internal_port": 45678,
 	"flag": "flag{that_comp_sci_assignment_was_useful_after_all}"

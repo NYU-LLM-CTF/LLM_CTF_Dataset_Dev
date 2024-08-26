@@ -7,7 +7,5 @@
     "box": "pwn.chal.csaw.io",
     "compose": true,
 	"internal_port": 8000,
-    "files": [
-
-    ]
+    "files": ["memeshop.rb", "plugin/mememachine.so"]
 }

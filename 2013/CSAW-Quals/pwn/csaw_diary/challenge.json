@@ -7,7 +7,5 @@
     "box": "pwn.chal.csaw.io",
     "compose": true,
 	"internal_port": 34266,
-    "files": [
-
-    ]
+    "files": ["csaw_diary"]
 }
