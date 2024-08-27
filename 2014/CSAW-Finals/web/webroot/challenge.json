@@ -4,7 +4,7 @@
 	"description": "hackerhaikus.com http://web.chal.csaw.io:80",
 	"box": "web.chal.csaw.io",
 	"files":[
-		
+		"webroot.tar.gz"
 	],
 	"compose": true,
 	"internal_port": 80,

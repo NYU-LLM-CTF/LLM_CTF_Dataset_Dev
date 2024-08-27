@@ -4,7 +4,7 @@
 	"description": "This is actually for both K_achieve and K_stairs web.chal.csaw.io:4567",
 	"box": "web.chal.csaw.io",
 	"files":[
-		
+		"arpahack.tar.gz"
 	],
 	"compose": true,
 	"internal_port": 4567,
