@@ -1,13 +1,11 @@
 {
     "name": "hipster",
     "category": "pwn",
-    "description": "Hipster Hitler's got our flag! Help us retrieve it! nc pwn.chal.csaw.io 1939",
+    "description": "Hipster Hitler's got our flag! Help us retrieve it!",
     "flag": "flag{temp}",
     "points": 250,
     "box": "pwn.chal.csaw.io",
     "compose": true,
 	"internal_port": 8025,
-    "files": [
-
-    ]
+    "files": ["hipster"]
 }
